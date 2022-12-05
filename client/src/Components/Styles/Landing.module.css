@@ -1,0 +1,51 @@
+.LandingPage {
+  background-image: url("../../Images/landing.jpg");
+  background-color: black;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: cover;
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  overflow: auto;
+  }
+
+.landingH1 {
+  display: inline;
+  color: rgb(251, 250, 247);
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1.5px 1.2px 1px #1a193ddd;
+ 
+  
+  
+ 
+  width: 400px;
+  margin-top: -90px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.homeBotton {
+  color: rgb(19, 19, 19);
+  font-size: 45px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  padding: 0.6rem 0.8rem;
+  border-radius: 4px;
+  background: rgb(145, 222, 167);
+  box-shadow: 0 0 4px #353a3a;
+  width: 300px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.audioButton {
+  border-radius: 10px;
+  border-color: rgba(100, 148, 237, 0.179);
+  width: 20vw;
+  height: 7.5vh;
+  background-color: rgba(0, 0, 0, 0.183);
+  margin-top: 25px;
+  margin-right: 5%;;
+}
+
+

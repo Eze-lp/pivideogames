@@ -1,0 +1,24 @@
+.navPaginado{
+    background-color:transparent;    
+}
+#Paginado{
+    width: 2%;
+    border-radius: 90px;
+    margin-block-end: 10px;
+    margin: 2px;
+    border-color: cadetblue;
+    background: hsla(208, 33%, 35%, 0.914);
+    color: hsl(0, 0%, 98%);   
+    font-size: 12px;
+}
+#Paginado2{
+    width: 2%;
+    border-radius: 90px;
+    margin-block-end: 10px;
+    margin: 2px;
+    border-color: cadetblue;
+    background: hsla(207, 10%, 64%, 0.914);
+    color: hsl(0, 0%, 98%);   
+    font-size: 12px;
+}
+

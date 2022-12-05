@@ -1,0 +1,61 @@
+.imageDetail{
+    background-image: url("../../Images/homeLu1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    overflow: auto;
+    margin: 0%;
+  }
+  .DetailDiv{
+    margin-top: 5%;
+    margin-left: 5%;
+    position:fixed;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px ;
+    background: rgb(19, 19, 19);
+    border-radius: 17px;
+    border: solid rgb(145, 222, 167) 1px;
+    box-shadow: 0 0 4px #000000a8;
+    width: 90%;
+    height: 70%;
+
+    
+  }
+  .imagen {
+    display:inline-block;
+    margin-top: 10%;
+    width: 500px;
+    height: 300px;
+    border-radius: 17px;
+  }
+  .divTexto{
+    display:inline-block;
+    text-align: left;
+    color: rgb(248, 241, 241);
+    margin-top: -24%;
+    margin-left: 34%;
+    margin-right: 2%;
+    margin-bottom: 0%;
+  }
+  .divImagen{
+    margin-left: 2%;
+    margin-right: 30%;
+    display: flex;
+  }
+  .goBack{
+    display:inline-flex;  
+    margin: 10px 10px 0px 0px;
+    font-size: 12px;
+    font-weight: bolder;
+    padding: 0.6rem 0.8rem;    
+    margin-left: 4px;
+    border-radius: 4px;
+    background: rgb(145, 222, 167);
+    box-shadow: 0 0 4px #353a3a;
+    color: rgb(19, 19, 19);
+    width: fit-content;
+  }
+  

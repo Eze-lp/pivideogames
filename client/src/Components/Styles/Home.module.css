@@ -1,0 +1,29 @@
+.homeImage{
+  flex-direction: column-reverse;
+  background-image: url("../../Images/homeLu1.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  overflow:auto;
+  margin: 0%;
+}
+.hcontent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  margin-top: 1%;
+  width: 100%;  
+}
+
+.Home {
+    margin-bottom:150px;
+    font-size: 50px;
+    color: #fff;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    overflow: auto;
+    margin: 0%;
+  }

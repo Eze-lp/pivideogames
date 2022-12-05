@@ -1,0 +1,31 @@
+.searchBar {
+  display:inline-block;
+  margin-top:3.4%;
+  margin-left:45%;
+  margin-right: 2px;
+  margin-bottom:1%;
+  width: 20rem;
+  height: 25px;
+  padding: 5px 5px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+  border: solid rgb(42, 14, 106) 2px;
+  background: rgba(255, 255, 255, 0.596);
+  left: 50%;
+}
+.searchBotton {
+  min-width: 50px;
+  height: 40px;
+  color: black;
+  padding: 5px 5px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+  border: solid rgb(42, 14, 106) 2px;
+  background: rgb(255, 255, 255);
+};
